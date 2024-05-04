@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: c45d56161eeb61d4b98835a7a1393c29
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_RB_ground_aqua
+    second: {fileID: 2100000, guid: 342fd3f7ed5b6374e926c1beb73b6f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_TreeOrangeTubeTop
+    second: {fileID: 2100000, guid: f43a45995d1f22a438407818b877140f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Tv_shadshoals
+    second: {fileID: 2100000, guid: 794636ee6a609aa44b0647e8c91e3025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_airlock
+    second: {fileID: 2100000, guid: f5e9a4a2a1667fc41a6711bba5bd5322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_bamboo_ends
+    second: {fileID: 2100000, guid: dd07409deef25ef4092ec3a9c1dd34d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_bamboo_furniture1
+    second: {fileID: 2100000, guid: 688e607738eadb541a0f87b70b51a641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_bamboo_swing
+    second: {fileID: 2100000, guid: 10db4d75453deae47a9d5a2d94585eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_bb_lodtexture
+    second: {fileID: 2100000, guid: 731aaec06c54234438ec5718c22c7090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_bb_lodtexture_02
+    second: {fileID: 2100000, guid: 8800458b64307b74c8329f5fe8cccf74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_beach_chair
+    second: {fileID: 2100000, guid: 48897f4189af6ee4faabbda908f877e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_blanket
+    second: {fileID: 2100000, guid: 3fc376d79cbfab44da77c3e465de3672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_bowl_floor1
+    second: {fileID: 2100000, guid: 8a55f5cb0734d024da0d7afecd579dd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_a
+    second: {fileID: 2100000, guid: 91ab07b25edc3da4b85e31a7dda24620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_aqua
+    second: {fileID: 2100000, guid: 04b34eda3131b454b8c1250365ae893b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_b
+    second: {fileID: 2100000, guid: 5137523e091b14a44a65e124a17aa5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_blue10
+    second: {fileID: 2100000, guid: a6da1224ea4edae439c6b2c2b0e7ca33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_blue11
+    second: {fileID: 2100000, guid: 534f7c870e76b1c4d985229bbfd20411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_blue5
+    second: {fileID: 2100000, guid: 00566eb8c0f89a349aa445dcd975d79d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_c
+    second: {fileID: 2100000, guid: 8a7fa326ee89b6842bcf3b28f635c90a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_grey
+    second: {fileID: 2100000, guid: dd62c033023f74f4fa89f89ea35aef61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_rust
+    second: {fileID: 2100000, guid: d673870ab2d96544aa9a1a5165c30f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_wood_krusty
+    second: {fileID: 2100000, guid: f7be0b34af9cd8d409528493b1d3a871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_wood_krusty2
+    second: {fileID: 2100000, guid: e2d2b31f99dfe6d438f891dd4158054f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cannon_fd
+    second: {fileID: 2100000, guid: b7f4fd741850997449addf1b8331de4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_chest_treasure_rev
+    second: {fileID: 2100000, guid: 22e3fc04ce3664f478dfe685c2feb74b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cruiseshiprust
+    second: {fileID: 2100000, guid: eaf143705d5c0cb4cb6fee729653c723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_cruiseshipwindow01
+    second: {fileID: 2100000, guid: bfdf310939d10d64499154385af9b8b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_db_gumdrop_green
+    second: {fileID: 2100000, guid: f326742d994e24942b9cdfc44cd6963e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_dumpster2
+    second: {fileID: 2100000, guid: 451af4e62a06bcb4b88792cab254123c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_dutch_ground
+    second: {fileID: 2100000, guid: eb7386c8f2e611e4ba50feb8f3aeed1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_dutch_groundgray
+    second: {fileID: 2100000, guid: 3b322ce08bc9036419e909a236dc1f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_electrical_pole_single
+    second: {fileID: 2100000, guid: ea2cb2b12b6b47448a18ef51584cc1c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_fountain_water
+    second: {fileID: 2100000, guid: 97b5d0abf342dba42b87b21e05b9074e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gold_statue
+    second: {fileID: 2100000, guid: 27a04b4a1bffff44b91960070883d9f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_grass
+    second: {fileID: 2100000, guid: 95e6502a10b48a34397d493d618706e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_grass_clump
+    second: {fileID: 2100000, guid: b87b54c52e5f9db49b9799eae3effccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_grass_edge_ver2
+    second: {fileID: 2100000, guid: 81cfcd2e1449d1b43b341440e9b8ae7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ground_cobble_ver2
+    second: {fileID: 2100000, guid: 628dd8df376dfd942b5b01f700392627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ground_day
+    second: {fileID: 2100000, guid: f4f97c51b71579f408bab11ef034cc42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ground_day2
+    second: {fileID: 2100000, guid: 9110bc3d12c735a4ca914717f5def743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ground_day3
+    second: {fileID: 2100000, guid: 2721dc8574586e9478adea5da15424e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ground_day3_edge
+    second: {fileID: 2100000, guid: a4c721f8b2b658246b16639bc90ccd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ground_street_alpha_lt
+    second: {fileID: 2100000, guid: 5ab1a3d96bfe03c4880d7cf3e212f1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_ground_street_lt
+    second: {fileID: 2100000, guid: b85145b3d8e0596449cb204a28c71006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gy_beam
+    second: {fileID: 2100000, guid: 7baa7e7c434a851438563465961e4b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gy_lava_green
+    second: {fileID: 2100000, guid: dee78da7f4ed9d2468cb5130bca86c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gy_lodtextures
+    second: {fileID: 2100000, guid: 200e8849415dd5648b31ae6290f68ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gy_planksA
+    second: {fileID: 2100000, guid: b59bbf3d73fc8734dbab8c9e23c69558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gy_rock_wall_glow_darker
+    second: {fileID: 2100000, guid: 0cb8e0892cd56114db3363a1e0f6a4ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_gy_rock_wall_green_darker
+    second: {fileID: 2100000, guid: c9c4afd6901451f4bb9c4dd48300be4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_hb01_shadow_KK
+    second: {fileID: 2100000, guid: 9148dd3f044c2e443902bb91e32811f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_hb01_shadow_mesa
+    second: {fileID: 2100000, guid: 4b1b59ef7cd97dc4497022fad1adbd37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_house_patrick_rock
+    second: {fileID: 2100000, guid: cdf5c57c9a6614e4ebb08f9761f43ce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_house_patrick_rock1
+    second: {fileID: 2100000, guid: 8e0616fdeefbc894594c1f2669ee6f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_house_sb_flowers01
+    second: {fileID: 2100000, guid: 17c898a6982990448893d79207acb738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_house_sb_flowers02
+    second: {fileID: 2100000, guid: 15afad49ce782b84f97a8ea08449237f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_jf_sky_color
+    second: {fileID: 2100000, guid: 34d922f4380a2ed4e855ef229febeba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_jf_sky_flowers
+    second: {fileID: 2100000, guid: 212dab422c0ecd04c8563b5ae0b43981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_kelp_forest_sign01
+    second: {fileID: 2100000, guid: d3482f541c0bfd14a99bce1a8ceac44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_kelp_platform
+    second: {fileID: 2100000, guid: f366473d466b2324fac23670422e6f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_kelp_platform_top
+    second: {fileID: 2100000, guid: 9b190f80ea4bef74f861f6afd794a109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_kf_lodtextures_fringes
+    second: {fileID: 2100000, guid: 3af58bc2c1f355e4d991180b2ba6f999, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabdor
+    second: {fileID: 2100000, guid: 9b9361d9150c76044b9e41a6a81bdb6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabflg
+    second: {fileID: 2100000, guid: bf5c9fabcaae925479c3162f4f0e538e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabsng1
+    second: {fileID: 2100000, guid: a64428e32612e5a45a7e6101acdd957d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabsng2
+    second: {fileID: 2100000, guid: fe7d3d68d8805884fa790fc1c90dea31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabwd5
+    second: {fileID: 2100000, guid: 45ddf8dbe00e3cf41a83ab914a112c3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabwin
+    second: {fileID: 2100000, guid: 3ea4dec36d9a90a40b101d607182bc99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabwin10
+    second: {fileID: 2100000, guid: cbf604ce4f6ff534eb091bce1b712e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabwin11
+    second: {fileID: 2100000, guid: 84b653eca06a79b40ac8da703fb868e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustycrabwin2
+    second: {fileID: 2100000, guid: 1d4eeef835d790647a356dee18a3c879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustygill02
+    second: {fileID: 2100000, guid: 420b35a356024464894b9edba0b0e2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_krustykrab_net
+    second: {fileID: 2100000, guid: fc5508551274bc7469999378593a1509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_lagoon_water
+    second: {fileID: 2100000, guid: b77df7d0238b71e45aa25960f959b9e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_leaf_pineapple
+    second: {fileID: 2100000, guid: ce2356cceb0025949b4dd71453641eb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_lift_seashell
+    second: {fileID: 2100000, guid: 1c511742a7f433941b4ecb3e85dcf063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_light_street_rev
+    second: {fileID: 2100000, guid: 7453f6f2376209847822ae664d0b3ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_long_shadows
+    second: {fileID: 2100000, guid: 7225f15d3bfc207468ec303b5f9b726f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_object_door_blue
+    second: {fileID: 2100000, guid: 7ebbb0a99b24314469126b13288bf884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_object_door_blue02
+    second: {fileID: 2100000, guid: 61ceedd25499f584daf0a1edb914d1c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_path_grass_jfflds
+    second: {fileID: 2100000, guid: e116758b273f5974bb2f87b3066b2036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_pattern_tiki_purple1
+    second: {fileID: 2100000, guid: a38b0922b99d6ec4a9c2eae2772c0f1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_plant_flower_white
+    second: {fileID: 2100000, guid: 59eb5991d443a3443996f0cf429e6cde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_porthole_big_3
+    second: {fileID: 2100000, guid: b32966f1785a0154a8bd13591e55243c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_rb_ground_aqua_trans
+    second: {fileID: 2100000, guid: 1a0430b9e9b8b314282fa954551e5ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_robot_headquarters
+    second: {fileID: 2100000, guid: 3de975639dae4af4185a3bd1d0f68ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_rock_gl
+    second: {fileID: 2100000, guid: e09a3f208b6d6e64f82a5ca64314cc5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_rock_purple
+    second: {fileID: 2100000, guid: 306a42c70c16010428425fb5b51d4aec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_rock_purple_ver10
+    second: {fileID: 2100000, guid: cfa0573b9a13bc84ba24427fbeb2768f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_rock_purple_ver3
+    second: {fileID: 2100000, guid: 09eb0683a30ad5d4f829e855aee3b973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_rock_sand_mtn_purple
+    second: {fileID: 2100000, guid: e4ef85a169312174ca2007df3371a7c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_roof_straw_fringe_ver2
+    second: {fileID: 2100000, guid: f328c8f51276b0d4bb60256ac0ed941d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_roof_straw_ver2
+    second: {fileID: 2100000, guid: 6ac4e355fbfc2f549a717fd00f699309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_rope
+    second: {fileID: 2100000, guid: de967bbb2c91da145b3b749d33c2192f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sand_gl
+    second: {fileID: 2100000, guid: 59a89f1fabd28ca46b2e1c8a7501f8dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sand_jfflds_wet
+    second: {fileID: 2100000, guid: efb1556a92564204aa9b9975875bb023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sand_patrick
+    second: {fileID: 2100000, guid: fba6ae4eed6a67441ac39f68d71a470a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sandydome
+    second: {fileID: 2100000, guid: 0719b454bd0984a4d8e39f22d61e86ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_bb_back
+    second: {fileID: 2100000, guid: d4d4729ff07bea3479fedc235f77c703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_bikini_btm
+    second: {fileID: 2100000, guid: 84bf041ec7666bf43b70a59b20d130e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_exit_jf
+    second: {fileID: 2100000, guid: c01ce87116c70b94bb2ead608a099b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_exit_sm01
+    second: {fileID: 2100000, guid: d89906a91388f434f90676cf71d62bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_f_d_graveyard
+    second: {fileID: 2100000, guid: 85ba91c67501d9d43babc4d41c25548b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_gl
+    second: {fileID: 2100000, guid: f04f35d9d1b31ee469cb320320c2231c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_hub_sm
+    second: {fileID: 2100000, guid: e0d6ff37242f80c4b954a725c1f9049a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_jellyfish
+    second: {fileID: 2100000, guid: 8e266910351790c42b6b41bfbd9b2fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_jellyfish_fields
+    second: {fileID: 2100000, guid: f337259ceeb8185489f2b9cd67e66fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_movie
+    second: {fileID: 2100000, guid: 55ef106dec3a34344b6897b14a4b61d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_police_station
+    second: {fileID: 2100000, guid: 83422d2365dee4d48bd608244a1deb06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_rockbottom
+    second: {fileID: 2100000, guid: a5a024ba6c1cead4b8e229ac7b117ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_shadyshoals
+    second: {fileID: 2100000, guid: fb05805b2e8c1db4d9f9f000d297de5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sign_taxi
+    second: {fileID: 2100000, guid: 9cef75cb935397944bed442c45dbe81d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_sm_peak
+    second: {fileID: 2100000, guid: 384525d7a2653d045baeee1359308df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_surface_chum
+    second: {fileID: 2100000, guid: beda3ab1ef6bb13418f3476c042216e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_surface_chum2
+    second: {fileID: 2100000, guid: 7322455772d3028419ba5c2428102b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_surface_house_spongebob2
+    second: {fileID: 2100000, guid: a19fd84c66f325b4091a81af74c109a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_surface_house_squidward
+    second: {fileID: 2100000, guid: fe06f249b1d7ef84190e500a75126db6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_surface_wood_light
+    second: {fileID: 2100000, guid: bf2a829fd2487a64591510ed6301e2e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_toll_booth
+    second: {fileID: 2100000, guid: 2ea6424c209462443b9525ab87aab109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_toll_gate
+    second: {fileID: 2100000, guid: 93b214304e4b0634ea03638ef65209f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_toll_gate_arm
+    second: {fileID: 2100000, guid: 206efe145f2f0ce4e8aee5d2d9824cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_toll_paint_bucket
+    second: {fileID: 2100000, guid: 214321cb699d92042be6c5e2bc5f105a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_toll_paint_stroke
+    second: {fileID: 2100000, guid: e629a6f6cec147a40b3d93d7eb6ac1c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_treebark
+    second: {fileID: 2100000, guid: e775b75cdfe04b946ac6391cddbf6797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_treeleavealf
+    second: {fileID: 2100000, guid: ca3c90fe2973b494f81ce950288ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_treeleaves
+    second: {fileID: 2100000, guid: 81ef56b2833b00e4a9ffae93586b5371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tube_house
+    second: {fileID: 2100000, guid: 581defd293a0280458c398b968f49bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tube_house10
+    second: {fileID: 2100000, guid: 3cecb63c60fd3854bb2ae2410875b9b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_tube_house_B
+    second: {fileID: 2100000, guid: 16b42e3273cb2ec4abf6b85c2abd1197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_water
+    second: {fileID: 2100000, guid: ec614d252227aeb48ba375cb4e4f3322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wood_bridge
+    second: {fileID: 2100000, guid: c05eaf3a284940b4c9b877b5103b2917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wood_dutch05
+    second: {fileID: 2100000, guid: 2f93cb45d08656941bc42228be3951ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wood_pounded_pillar
+    second: {fileID: 2100000, guid: 6c7a1d73efd29f1498adc6117de83e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wood_pounded_pillar_edge
+    second: {fileID: 2100000, guid: 813444f0feb8a6649a1de620ff3edf98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wood_purple
+    second: {fileID: 2100000, guid: 1e86022982d322e4a8c370eb85249db2, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
